@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJoupYHzUVj8p2QD3y254Qh2dsHtblx+ZqUvweCcxJD1osnHQR1MASpRw7Hd7cCtcvfoBVp+PVXdmAHCiWscsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stajyer6\\Desktop\\cpx400_project_GUI\\cpx400\\cpx400.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stajyer6\\.nuget\\packages\\ftd2xx_net\\1.0.14\\ftd2xx_net.1.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FTD2XX_NET 1.0.14' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FTD2XX_NET",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

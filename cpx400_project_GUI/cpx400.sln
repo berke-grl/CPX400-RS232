@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cpx400", "cpx400\cpx400.csproj", "{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Debug|Any CPU.Build.0 = Debug|x86
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Debug|x86.ActiveCfg = Debug|x86
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Debug|x86.Build.0 = Debug|x86
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Release|x86.ActiveCfg = Release|x86
+		{CD0B3925-0EEF-41DE-87A2-9C3C8249F6DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C22144-E87F-4FB5-BC3E-2ACD420383CF}
+	EndGlobalSection
+EndGlobal
